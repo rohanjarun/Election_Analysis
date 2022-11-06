@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Purpose of this project/assignment
-This project is to help determine which winning candidate has the largest voter amount based on the counties. 
+This project is to help determine which winning candidate has the largest voter amount based on the counties. This framework used for the colorado board can now be utilized by the rest of the states to help determine their winners!
 It required - 
 * Total Votes
 * List of Counties
